@@ -1,0 +1,17 @@
+77a151,127.0.0.1,GET,http://localhost:8000/,1534404918,d1dd40,200
+d1dd40,127.0.0.1,GET,http://localhost:8000/,1534404918,,500
+354b7d,127.0.0.1,GET,http://localhost:8000/,1534405241,70f514,200
+70f514,127.0.0.1,GET,http://localhost:8000/,1534405241,,500
+8dea55,127.0.0.1,GET,http://localhost:8000/,1534405261,fca829,200
+fca829,127.0.0.1,GET,http://localhost:8000/,1534405261,,500
+b5e7c7,127.0.0.1,GET,http://localhost:8000/,1534405387,df1e85,200
+df1e85,127.0.0.1,GET,http://localhost:8000/,1534405387,,500
+2944fa,127.0.0.1,GET,http://localhost:8000/,1534405415,db543d,200
+db543d,127.0.0.1,GET,http://localhost:8000/,1534405415,,500
+390765,127.0.0.1,GET,http://localhost:8000/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1534405717,de2868,200
+94757b,127.0.0.1,GET,http://localhost:8000/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1534405717,de2868,200
+de2868,127.0.0.1,GET,http://localhost:8000/,1534405717,,200
+d630ee,127.0.0.1,GET,http://localhost:8000/_fragment?_path=_format%3Dhtml%26_locale%3Den%26_controller%3DOCPlatformBundle%253AAdvert%253Amenu,1534405733,9d938f,200
+9d938f,127.0.0.1,GET,http://localhost:8000/platform/add,1534405733,,200
+5eab4e,127.0.0.1,GET,http://localhost:8000/platform,1534405735,e6ff66,200
+e6ff66,127.0.0.1,GET,http://localhost:8000/platform,1534405735,,404
